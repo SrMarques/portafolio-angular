@@ -1,6 +1,6 @@
 export interface Producto {
-    cod: string;
-    url: string;
-    titulo: string;
     categoria: string;
-  }
+    cod: string;
+    titulo: string;
+    url: string;
+}
